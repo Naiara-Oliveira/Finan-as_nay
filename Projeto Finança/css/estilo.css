@@ -1,0 +1,25 @@
+#home {
+	background: #5df3f3;
+	color: white;
+}
+h1{
+    font-size: 2em;
+    text-shadow:  1px 1px 2px black;
+}
+h2{
+    font-family: Arial,serif;
+    font-size: 1.6em;
+}
+p{
+    font-size: 1.2em;
+    font-family: Arial,serif;
+}
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1.9px solid #bebebe;
+}
+footer p a {
+    
+    margin: 5px 15px;
+    }
+  
